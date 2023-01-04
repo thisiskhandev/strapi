@@ -89,7 +89,6 @@
       "default": 0,
       "required": true,
       "max": 9999,
-      "private": true,
       "min": 1
     }
   }
